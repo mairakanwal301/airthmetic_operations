@@ -27,5 +27,5 @@ console.log(totalLayers);
 //MODULUS:
 let pencils = 15;
 let pencil_users = 6;
-let reminder = pens / pen_user;
+let reminder = pens % pen_user;
 console.log(reminder);
